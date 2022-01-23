@@ -7,7 +7,8 @@ namespace ConsoleApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Changes");
-			Console.BackgroundColor = ConsoleColor.Black;
+			Console.BackgroundColor = ConsoleColor.Red;
+			
 		}
 	}
 }
